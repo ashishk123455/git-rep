@@ -1,1 +1,2 @@
-First
+Some changes in first file
+Some more changes in first file
